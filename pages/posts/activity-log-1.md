@@ -25,3 +25,5 @@ There are 2 roles at Arkatama, become a **full stack developer** or **digital ma
 
 ## Week 1
 Started with PT Arkatama's onboarding, an explanation of some of the material that will be given to students. Week 1 explains the basics of application development, explains the types of programming languages (low level - high level), gives examples of high level languages (C, Java). Provide an explanation of the front end and back end, introduction to SDLC application development methods using waterfall, prototype, agile, and scrum. Understanding the tech stack, learning the aspects that must be considered in choosing the tech stack of an application. and the widely used tech stack models, such as MERN/ MEAN/ MEVN, LAMP, TALL.
+
+## Week 2
