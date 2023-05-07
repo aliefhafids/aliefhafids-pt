@@ -28,3 +28,5 @@ Started with PT Arkatama's onboarding, an explanation of some of the material th
 
 ## Week 2
 There were many activities were carried out by the Full Stack web Development independent study participants in week 2, starting from the pre-test and post-test activities during learning, as well as giving practical assignments on what the trainer had delivered at the zoom meeting. And the material given this time is about HTML/Hypertext Markup Language, all the explanations start from the use of tags that can be used in HTML.
+
+<img src="/images/arkatama-log-1/week-2-activities.png" data-align="center" alt="activities-week2" width="600px"/>
