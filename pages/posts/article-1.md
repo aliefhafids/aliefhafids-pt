@@ -1,7 +1,7 @@
 ---
 title: Be safe with the Komplek App Scanner
 date: 2023/5/27
-description: my project for mobile app.
+description: My project for mobile app.
 tag: Mobile App, Flutter
 author: Alief Hafids
 ---
@@ -14,8 +14,23 @@ Advances in technology make it easier for anyone to carry out their activities, 
 
 So the concept of this application is that each security mobile phone will be installed with an application which will later be used to scan the QR code for each komplek. This application will later be useful for recording security working hours because from the QR code realtime data will be input into the database, and later the head of security can monitor the performance of the security.
 
+
+<img src="/images/articles-1/mobile-login.png" data-align="center" alt="login" width="800px"/>
+
+**Step 1** : User must log in first, to find out who the user will be doing the shift. Database checks user username and password.
+
+**Step 2** : User will go to app home page. On that page there are 2 options buttons, a button to scan the QR and select the user's current location.
+
+<img src="/images/articles-1/mobile-loc.png" data-align="center" alt="location" width="800px"/>
+
+**Step 3** : If user want to know the current location, the user selects the location button and will display the address, latitude and longitude of that location.
+
+<img src="/images/articles-1/mobile-scan.png" data-align="center" alt="scan" width="800px"/>
+
+**Step 4** : To scan the qr the user selects the scan QR button and the first step is to scan the qr code first, if the QR data matches the data in the database it will be directed to the check in and check out page. If the qr code data is wrong then it cannot be entered on the next page.
+
 ....
 
-<img src="/images/articles-1/mobile-app.png" data-align="center" alt="komplek app" width="600px"/>
+
 
 
