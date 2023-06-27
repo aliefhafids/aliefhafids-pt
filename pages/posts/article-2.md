@@ -42,6 +42,7 @@ One of my final assignments for one of my college assignments was to make the us
 
 **Product checkout list** : Displays several items that will be checked by the user, if the user is going to checkout a checkout page will appear to place an order for goods, the user must enter the address and must agree to some of the conditions previously made.
 
+<img src="/images/articles-2/notification-page-1.png" data-align="center" alt="thumbnail" width="700px"/>
 <img src="/images/articles-2/notification-page.png" data-align="center" alt="thumbnail" width="700px"/>
 
 **Payment page & notification page** : after the user agrees to the terms that must be met before placing an order, the user must enter a pin to make product payments. And later ordering and delivery information will appear via the notification page.
