@@ -20,10 +20,12 @@ Arkatama independent study participants are entitled to take part in the BNSP (B
 
 Independent study participants at PT Arkatama Multi Solusindo are entitled to take the BNSP certification test, and to take the certification test they must create a website based on the criteria determined by BNSP. and a web test assessor from BNSP, Mr. Ari Usman, who tested all participants well so that they became competent.
 
-<img src="/images/arkatama-log-4/week-3-activities-month-4.png" data-align="center" alt="activities-week2-month-2" width="600px"/>
+<img src="/images/arkatama-log-4/week-3-activities-month-4.png" data-align="center" alt="activities-week3-month-4" width="600px"/>
 
 ## Week 4
 
-Graduation at PT Arkatama Multi Solusindo, the last moment of participating in independent learning activities at PT Arkatama. Taught how to become a full stack web developer, become a competent and professional web developer at the front end and back end. And in the end the results of these activities participants can produce a web application product from the implementation of the learning that has been given. I am very grateful to PT Arkatama Multi Solusindo because I can participate and be part of the independent learning participants.✨🎉
+Graduation at PT Arkatama Multi Solusindo, the last moment of participating in independent learning activities at PT Arkatama. Taught how to become a full stack web developer, become a competent and professional web developer at the front end and back end. And in the end the results of these activities participants can produce a web application product from the implementation of the learning that has been given. I am very grateful to PT Arkatama Multi Solusindo because I can participate and be part of the independent learning participants. And I didn't expect to be the best participant in full stack web development class 1.✨🎉
+
+<img src="/images/arkatama-log-4/week-4-activities-month-4.png" data-align="center" alt="activities-week4-month-4" width="600px"/>
 
 
