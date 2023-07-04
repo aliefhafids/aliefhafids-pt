@@ -13,7 +13,7 @@ author: Alief Hafids
 Short Description :
 >Maliki Tech Fest is a bootcamp program held by State Islamic University of Maulana Malik Ibrahim Malang, for students majoring in IT and non-IT. bootcamp programs held at State Islamic University of Maulana Malik Ibrahim Malang such as mobile application development using flutter, UI/UX design development using figma, and backend programming with Golang.
 
-I participated as a participant in Maliki Tech Fest as a participant in mobile programming with flutter. And the program teaches basic to advanced development using flutter with a combination of displaying the application using figma and the backend using golang.
+I participated in Maliki Tech Fest as a participant in mobile programming with flutter. And the program teaches basic to advanced development using flutter with a combination of displaying the application using figma and the backend using golang.
 
 ## Week 1
 
